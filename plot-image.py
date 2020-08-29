@@ -7,7 +7,7 @@ if not os.path.exists(".images"):
     os.mkdir(".images")
 
 
-df = pd.read_csv("sample-gantt.csv")
+df = pd.read_csv("data.csv")
 
 
 fig = px.timeline(df, 

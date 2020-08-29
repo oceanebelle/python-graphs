@@ -11,12 +11,15 @@ histogram: https://plotly.com/python-api-reference/generated/plotly.figure_facto
 ## HOWTO install requirements
 
 ```bash
-pip3 install -r sample-gantt.requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Sample image render
 Sample Gantt for plotting concurrency
-![Alt text](./.images/gantt.webp)
+![Gantt](./.images/gantt.webp)
 
 Sample Scatter for plotting average
-![Alt text](./.images/scatter.webp)
+![Scatter](./.images/scatter.webp)
+
+Sample normalised histogram
+![Histogram](./.images/hist.webp)
